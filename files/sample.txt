@@ -1,0 +1,4 @@
+
+wing table is a list of escape or non-printable characters that can be represented with backslash notation.
+An escape character gets interpreted; in a singlequoted as well as doublequoted strings
+An escape character gets interpreted; in a singlequoted as well as doublequoted strings
